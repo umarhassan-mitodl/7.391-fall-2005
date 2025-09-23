@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Science",
+      "Biology"
+    ]
+  ],
+  "legacy_uid": "d6a02840-f6c6-c585-58aa-1cee4c76959f",
+  "instructors": {
+    "content": [
+      "bdb1b46c-090e-538d-629f-f0dcf76878e6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b23ecac0-caa0-e7d2-9fc5-5880bed1df16",
+    "website": "7-391-concept-centered-teaching-fall-2005"
+  },
+  "course_title": "Concept-Centered Teaching",
+  "course_description": "Do you like teaching, but find yourself frustrated by how little students seem to learn? Would you like to try teaching, but are nervous about whether you will be any good at it? Are you interested in new research on science education? Research in science education shows that the greatest obstacle to student learning is the failure to identify and confront the misconceptions with which the students enter the class or those that they acquire during their studies. This weekly seminar course focuses on developing the participants' ability to uncover and confront student misconceptions and to foster student understanding and retention of key concepts. Participants read primary literature on science education, uncover basic concepts often overlooked when teaching biology, and lead a small weekly discussion session for students currently enrolled in introductory biology classes.\n\nThe instructor for this course, Dr. Julia Khodor, is a member of the {{% resource_link \"01b88715-62bd-4ab1-a2f7-fd3a126e6f1e\" \"HHMI Education Group\" %}}.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "7.931",
+  "primary_course_number": "7.391",
+  "course_image_thumbnail": {
+    "content": "3a18fa8e-192b-8e2e-5c5d-edb27296ae85",
+    "website": "7-391-concept-centered-teaching-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "79745686-7d7d-40cd-b329-f81fc43174e7",
+  "site_short_id": "7.391-fall-2005",
+  "site_url_path": "courses/7-391-concept-centered-teaching-fall-2005",
+  "title": "Course Metadata"
+}
