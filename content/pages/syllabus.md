@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section includes course description, course format, written
   assignments, and grading criteria.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

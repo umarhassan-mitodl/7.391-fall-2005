@@ -2,6 +2,8 @@
 content_type: page
 description: The reading section includes the overview for each lecture and related
   readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -36,7 +38,7 @@ READINGS
 Introduction - Understanding by Design and the BCF
 {{< tdclose >}}
 {{< tdopen >}}
-We will begin by introducing ourselves and talking about what each of us hopes to get out of the class, our backgrounds and sources of interest in the subject of the seminar. We will introduce the concepts of integrated curriculum and concept-centered learning. We will also discuss how these principles can be applied to the courses where we have only limited influence. We will also introduce the {{% resource_link "8ac8eb34-fec8-4151-917c-23d5b12b6904" "BCF, the biology concept framework" %}}, and we will talk briefly about how such an instrument can be beneficial in teaching and learning.
+We will begin by introducing ourselves and talking about what each of us hopes to get out of the class, our backgrounds and sources of interest in the subject of the seminar. We will introduce the concepts of integrated curriculum and concept-centered learning. We will also discuss how these principles can be applied to the courses where we have only limited influence. We will also introduce the [BCF, the biology concept framework](http://web.mit.edu/bioedgroup/HBCF/CBE-Summer2004.htm), and we will talk briefly about how such an instrument can be beneficial in teaching and learning.
 {{< tdclose >}}
 {{< tdopen >}}
  
